@@ -1,4 +1,4 @@
 #支持私库
-pytorch/pytorch:2.1.2-cuda11.8-cudnn8-devel
+langgenius/dify-api:1.7.1
 #支持指定架构
---platform=linux
+--platform=linux/amd64
